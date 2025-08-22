@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974569562297",
+    "project_id": "witsnotes-c98b1",
+    "storage_bucket": "witsnotes-c98b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974569562297:android:a8fa1b8fd2f8e9a3473b68",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGja4sl2e1BFoGy-mZd99h8y_sT6oLf90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974569562297:android:2d2deaad1363c2fd473b68",
+        "android_client_info": {
+          "package_name": "com.example.wits_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGja4sl2e1BFoGy-mZd99h8y_sT6oLf90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
